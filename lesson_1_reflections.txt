@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    as the diff shows only the differences between the two files, it would be much easier to spot the bug than looking at them one by one, line per line
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By having easy access to the entire history would save my time a lot if I want to search for the old code, if I want to change the old code, or making the old code as a reference, etc. Thus, would make my work more efficent than searching for the code one by one and  I also do not have to worry about the possibility if my previous code is lost.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: The time of commit is up to me. The history will not be too cluttered and easier to understand as I can arrange it depend on my needs.
+    Cons: If I forget to commit, the save would be lost and I have to work double to fix that.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It would probably because one file might be related to the others, such as HTML and CSS.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    by using git log, I can view the entire history of the changes/ commits of the file. By using git diff, I could compare the history of changes between two commits
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It would be easy to fix it. We just can go back to the previous commit and find the issues. I can also explore many thing without being afraid of breaking something
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
